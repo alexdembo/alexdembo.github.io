@@ -2,133 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35361ad6-219a-46d1-9f2b-b7560f0b5dae" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/NYDWBdD4gIq26G5XYbHsFBJtnKITppOI_IvcXXDNrsc.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/robots.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/apple-touch-icon.png" afterPath="$PROJECT_DIR$/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/camera.css" afterPath="$PROJECT_DIR$/css/camera.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/fonts.css" afterPath="$PROJECT_DIR$/css/fonts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/css/prettyPhoto.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/slicknav.css" afterPath="$PROJECT_DIR$/css/slicknav.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/European_Union-P4m-50Euros-2002b.jpg" afterPath="$PROJECT_DIR$/images/European_Union-P4m-50Euros-2002b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/Hot-Dog-6.png" afterPath="$PROJECT_DIR$/images/Hot-Dog-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/bgBeforFooter.png" afterPath="$PROJECT_DIR$/images/bgBeforFooter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/bgFooter.png" afterPath="$PROJECT_DIR$/images/bgFooter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/bgTop.jpg" afterPath="$PROJECT_DIR$/images/bgTop.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/bizPic.png" afterPath="$PROJECT_DIR$/images/bizPic.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/blank.gif" afterPath="$PROJECT_DIR$/images/blank.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/burger_sandwich_PNG41141.png" afterPath="$PROJECT_DIR$/images/burger_sandwich_PNG41141.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/camera-loader.gif" afterPath="$PROJECT_DIR$/images/camera-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/camera_skins.png" afterPath="$PROJECT_DIR$/images/camera_skins.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/cir.png" afterPath="$PROJECT_DIR$/images/cir.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/footer_black.png" afterPath="$PROJECT_DIR$/images/footer_black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/horL.png" afterPath="$PROJECT_DIR$/images/horL.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/line7Bg.jpg" afterPath="$PROJECT_DIR$/images/line7Bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picAbout/aboutP1.png" afterPath="$PROJECT_DIR$/images/picAbout/aboutP1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picAbout/aboutP2.png" afterPath="$PROJECT_DIR$/images/picAbout/aboutP2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picAbout/aboutP3.png" afterPath="$PROJECT_DIR$/images/picAbout/aboutP3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picAbout/aboutP4.png" afterPath="$PROJECT_DIR$/images/picAbout/aboutP4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picNews/news1.jpg" afterPath="$PROJECT_DIR$/images/picNews/news1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picNews/news2.jpg" afterPath="$PROJECT_DIR$/images/picNews/news2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picNews/news3.jpg" afterPath="$PROJECT_DIR$/images/picNews/news3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picNews/news4.jpg" afterPath="$PROJECT_DIR$/images/picNews/news4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picNews/news5.jpg" afterPath="$PROJECT_DIR$/images/picNews/news5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picNews/news6.jpg" afterPath="$PROJECT_DIR$/images/picNews/news6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picT1.png" afterPath="$PROJECT_DIR$/images/picT1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picTeam/picT1.png" afterPath="$PROJECT_DIR$/images/picTeam/picT1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picTeam/picT2.png" afterPath="$PROJECT_DIR$/images/picTeam/picT2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picTeam/picT3.png" afterPath="$PROJECT_DIR$/images/picTeam/picT3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picTeam/picT4.png" afterPath="$PROJECT_DIR$/images/picTeam/picT4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picTeam/picT5.png" afterPath="$PROJECT_DIR$/images/picTeam/picT5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picTeam/picT6.png" afterPath="$PROJECT_DIR$/images/picTeam/picT6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/picTeam/picT7.png" afterPath="$PROJECT_DIR$/images/picTeam/picT7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_rounded/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/contentPattern.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/contentPattern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/dark_square/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/default_thumb.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/default_thumb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_next.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_next.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_prev.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_prev.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_x.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/default/sprite_y.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_y.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/facebook/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_rounded/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhoto/light_square/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic1.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic2.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic3.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic4.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic5.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic6.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic7.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic8.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/pic9.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/pic9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic1.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic2.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic3.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic4.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic5.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic6.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic7.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic8.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/prettyPhotoImages/thumb_pic9.jpg" afterPath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/sliderL.png" afterPath="$PROJECT_DIR$/images/sliderL.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/slides/blank.gif" afterPath="$PROJECT_DIR$/images/slides/blank.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/socIcons.png" afterPath="$PROJECT_DIR$/images/socIcons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/stock-photo-high-resolution-scan-of-old-scottish-pound-note-23537836.jpg" afterPath="$PROJECT_DIR$/images/stock-photo-high-resolution-scan-of-old-scottish-pound-note-23537836.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/images/upBefor.png" afterPath="$PROJECT_DIR$/images/upBefor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/camera.min.js" afterPath="$PROJECT_DIR$/js/camera.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery.mobile.customized.min.js" afterPath="$PROJECT_DIR$/js/jquery.mobile.customized.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery.slicknav.js" afterPath="$PROJECT_DIR$/js/jquery.slicknav.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/myscript.js" afterPath="$PROJECT_DIR$/js/myscript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/sorting.js" afterPath="$PROJECT_DIR$/js/sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo1.svg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/European_Union-P4m-50Euros-2002b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/burger_sandwich_PNG41141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/stock-photo-high-resolution-scan-of-old-scottish-pound-note-23537836.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/slicknav.css" afterPath="$PROJECT_DIR$/css/slicknav.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -143,17 +52,51 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2329">
-              <caret line="137" column="27" lean-forward="false" selection-start-line="137" selection-start-column="27" selection-end-line="137" selection-end-column="27" />
+            <state relative-caret-position="317">
+              <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slicknav.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/slicknav.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo1.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/logo1.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="130" lean-forward="false" selection-start-line="3" selection-start-column="130" selection-end-line="3" selection-end-column="130" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/fonts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
+            <state relative-caret-position="759">
               <caret line="221" column="62" lean-forward="false" selection-start-line="221" selection-start-column="62" selection-end-line="221" selection-end-column="62" />
               <folding />
             </state>
@@ -189,7 +132,22 @@
       <find>gstat</find>
       <find>http</find>
       <find>http:</find>
+      <find>l</find>
+      <find>lo</find>
+      <find>logo</find>
+      <find>logo.</find>
+      <find>logo.pn</find>
+      <find>logo.png</find>
+      <find>logo1.png</find>
+      <find>logo1.pn</find>
+      <find>logo1.p</find>
+      <find>logo1.</find>
+      <find>width</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>logo1.svg</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -197,9 +155,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/css/fonts.css" />
+        <option value="$PROJECT_DIR$/css/slicknav.css" />
+        <option value="$PROJECT_DIR$/images/logo1.svg" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -211,9 +171,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="722" />
-    <option name="width" value="1205" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -243,6 +204,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexdembo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexdembo.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -254,9 +229,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="logo&#9;FILE&#9;file://C:/wamp64/www/alexdembo.github.io/images/logo.png" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\alexdembo.github.io\images" />
       <recent name="C:\wamp64\www\alexdembo.github.io" />
       <recent name="C:\wamp64\www\alexdembo.github.io\web" />
     </key>
@@ -348,6 +325,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="35361ad6-219a-46d1-9f2b-b7560f0b5dae" name="Default" comment="" />
@@ -356,20 +336,30 @@
       <option name="presentableId" value="Default" />
       <updated>1497474539229</updated>
       <workItem from="1497474540476" duration="1822000" />
-      <workItem from="1497791028242" duration="54000" />
+      <workItem from="1497791028242" duration="2909000" />
     </task>
+    <task id="LOCAL-00001" summary="web-&gt;root">
+      <created>1497791198121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497791198121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1876000" />
+    <option name="totallyTimeSpent" value="4731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="722" y="0" width="1205" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24978974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -381,7 +371,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -390,6 +379,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="web-&gt;root" />
+    <option name="LAST_COMMIT_MESSAGE" value="web-&gt;root" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -444,20 +437,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2329">
-          <caret line="137" column="27" lean-forward="false" selection-start-line="137" selection-start-column="27" selection-end-line="137" selection-end-column="27" />
+        <state relative-caret-position="759">
+          <caret line="221" column="62" lean-forward="false" selection-start-line="221" selection-start-column="62" selection-end-line="221" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+    <entry file="file://$PROJECT_DIR$/css/slicknav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="221" column="62" lean-forward="false" selection-start-line="221" selection-start-column="62" selection-end-line="221" selection-end-column="62" />
+        <state relative-caret-position="194">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo1.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="130" lean-forward="false" selection-start-line="3" selection-start-column="130" selection-end-line="3" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
