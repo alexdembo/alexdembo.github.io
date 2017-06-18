@@ -45,6 +45,123 @@ jQuery(document).ready(function(){
             });
         });
     }
+
+
+
+    $( "#lang-lv" ).click(function() {
+        $( "#1" ).text('Oriģinālie recepti');
+        $( "#2" ).text('Garšīgi');
+        $( "#3" ).text('Kvalitatīvi');
+        $( "#4" ).text('Edienkarte');
+        $( "#5" ).text('Pamatēdieni');
+        $( "#6" ).text('Burgeri');
+        $( "#7" ).text('Klasiskais liellopu gaļas burgers;');
+        $( "#8" ).text('Liellopu gaļas burgers ar karamelizētiem sīpoliem, šampinjoniem un zilo sieru;');
+        $( "#9" ).text('Liellopu gaļas burgers ar kraukšķīgu bekonu un olu;');
+        $( "#10" ).text('Šašliks');
+        $( "#11" ).text('Cāļa šašliks pikantajā marinādē (cepts uz oglēm)');
+        $( "#12" ).text('Cāļa šašliks svaiga jogurta marinādē (cepts uz oglēm)');
+        $( "#13" ).text('Kakla karbonādes šašliks jogurta marinādē (cepts uz oglēm)');
+        $( "#14" ).text('Klasiskais cūkgaļas šašliks (cepts uz oglēm)');
+        $( "#15" ).text('Hotdogs');
+        $( "#16" ).text('Vistas kebabs ar svaigiem dārzeņiem');
+        $( "#17" ).text('Piedevas');
+        $( "#18" ).text('Kartupeļu ēdieni');
+        $( "#19" ).text('Frī kartupeļi (ceptie friterī)');
+        $( "#20" ).text('Kartupeļu daiviņas (ceptas friterī)');
+        $( "#21" ).text('Aukstās uzkodas');
+        $( "#22" ).text('Salāti');
+        $( "#23" ).text('Svaigu kāpostu salāti');
+        $( "#24" ).text('Biešu siera salāti');
+        $( "#25" ).text('Mērces');
+        $( "#26" ).text('Majonēze');
+        $( "#27" ).text('Kečups');
+        $( "#28" ).text('BBQ mērce');
+        $( "#29" ).text('Sinepes');
+        $( "#30" ).text('Saldā čili mērce');
+        $( "#31" ).text('Alus un atsvaidzinošie bezalkoholiskie dzērieni');
+        $( "#32" ).text('Ir jautājumi? Sazinies ar mums!');
+
+    });
+
+
+
+    $( "#lang-ru" ).click(function() {
+        $( "#1" ).text('Оригинальные рецепты');
+        $( "#2" ).text('Вкусно');
+        $( "#3" ).text('Качественно');
+        $( "#4" ).text('Меню');
+        $( "#5" ).text('Основные блюда');
+        $( "#6" ).text('Бургеры');
+        $( "#7" ).text('Классический говяжий бургер');
+        $( "#8" ).text('Говяжий бургер с карамелизированным луком, шампиньёнами и сыром Blu;');
+        $( "#9" ).text('Говяжий бургер с хрустящим беконом и яйцом;');
+        $( "#10" ).text('Шашлык');
+        $( "#11" ).text('Шашлык из цыпленка в пикантном маринаде (жареный на углях)');
+        $( "#12" ).text('Шашлык из цыпленка в маринаде из свежего йогурта(жареный на углях)');
+        $( "#13" ).text('Шашлык из шейного карбонада в маринаде из свежего йогурта(жареный на углях)');
+        $( "#14" ).text('Классический свинной шашлык(жареный на углях)');
+        $( "#15" ).text('Хот-дог');
+        $( "#16" ).text('Куриный кебаб со свежими овощами');
+        $( "#17" ).text('Гарнир');
+        $( "#18" ).text('Блюда из картофеля');
+        $( "#19" ).text('Картофель фри (жареный во фритюре)');
+        $( "#20" ).text('Картофельные дольки (жареный во фритюре)');
+        $( "#21" ).text('Холодные закуски');
+        $( "#22" ).text('Салаты');
+        $( "#23" ).text('Салат из свежей капусты');
+        $( "#24" ).text('Салат со свеклой и сыром');
+        $( "#25" ).text('Соусы');
+        $( "#26" ).text('Майонез');
+        $( "#27" ).text('Кетчуп');
+        $( "#28" ).text('BBQ соус');
+        $( "#29" ).text('Горчица');
+        $( "#30" ).text('Сладкий чили соус');
+        $( "#31" ).text('Пиво и прохлаждающие безалкогольные напитки');
+        $( "#32" ).text('Есть вопросы? Связывайтесь с нами!');
+
+    });
+
+    $( "#lang-en" ).click(function() {
+        $( "#1" ).text('Original recepies');
+        $( "#2" ).text('Delicious');
+        $( "#3" ).text('Top quality');
+        $( "#4" ).text('Menu');
+        $( "#5" ).text('Main courses');
+        $( "#6" ).text('Burgers');
+        $( "#7" ).text('Klasiskais liellopu gaļas burgers;');
+        $( "#8" ).text('Liellopu gaļas burgers ar karamelizētiem sīpoliem, šampinjoniem un zilo sieru;');
+        $( "#9" ).text('Liellopu gaļas burgers ar kraukšķīgu bekonu un olu;');
+        $( "#10" ).text('Šašliks');
+        $( "#11" ).text('Cāļa šašliks pikantajā marinādē (cepts uz oglēm)');
+        $( "#12" ).text('Cāļa šašliks svaiga jogurta marinādē (cepts uz oglēm)');
+        $( "#13" ).text('Kakla karbonādes šašliks jogurta marinādē (cepts uz oglēm)');
+        $( "#14" ).text('Klasiskais cūkgaļas šašliks (cepts uz oglēm)');
+        $( "#15" ).text('Hotdogs');
+        $( "#16" ).text('Vistas kebabs ar svaigiem dārzeņiem');
+        $( "#17" ).text('Piedevas');
+        $( "#18" ).text('Kartupeļu ēdieni');
+        $( "#19" ).text('Frī kartupeļi (ceptie friterī)');
+        $( "#20" ).text('Kartupeļu daiviņas (ceptas friterī)');
+        $( "#21" ).text('Aukstās uzkodas');
+        $( "#22" ).text('Salāti');
+        $( "#23" ).text('Svaigu kāpostu salāti');
+        $( "#24" ).text('Biešu siera salāti');
+        $( "#25" ).text('Mērces');
+        $( "#26" ).text('Majonēze');
+        $( "#27" ).text('Kečups');
+        $( "#28" ).text('BBQ mērce');
+        $( "#29" ).text('Sinepes');
+        $( "#30" ).text('Saldā čili mērce');
+        $( "#31" ).text('Alus un atsvaidzinošie bezalkoholiskie dzērieni');
+        $( "#32" ).text('Ir jautājumi? Sazinies ar mums!');
+
+    });
+
+
+
+
+
 });
 
 /**!

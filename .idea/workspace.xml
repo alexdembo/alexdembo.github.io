@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35361ad6-219a-46d1-9f2b-b7560f0b5dae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo1.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/European_Union-P4m-50Euros-2002b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/burger_sandwich_PNG41141.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picAbout/aboutP4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/picNews/news6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/pic9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/prettyPhotoImages/thumb_pic9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/stock-photo-high-resolution-scan-of-old-scottish-pound-note-23537836.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/slicknav.css" afterPath="$PROJECT_DIR$/css/slicknav.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/myscript.js" afterPath="$PROJECT_DIR$/js/myscript.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,14 +19,24 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
+            <state relative-caret-position="657">
+              <caret line="281" column="42" lean-forward="false" selection-start-line="281" selection-start-column="32" selection-end-line="281" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myscript.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/myscript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/favicon.ico">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -160,6 +137,7 @@
         <option value="$PROJECT_DIR$/css/slicknav.css" />
         <option value="$PROJECT_DIR$/images/logo1.svg" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/myscript.js" />
       </list>
     </option>
   </component>
@@ -201,6 +179,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="alexdembo.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexdembo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexdembo.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -336,7 +328,7 @@
       <option name="presentableId" value="Default" />
       <updated>1497474539229</updated>
       <workItem from="1497474540476" duration="1822000" />
-      <workItem from="1497791028242" duration="2909000" />
+      <workItem from="1497791028242" duration="6131000" />
     </task>
     <task id="LOCAL-00001" summary="web-&gt;root">
       <created>1497791198121</created>
@@ -345,11 +337,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497791198121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="web-&gt;root">
+      <created>1497793955864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1497793955864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4731000" />
+    <option name="totallyTimeSpent" value="7953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -466,17 +465,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
+        <state relative-caret-position="657">
+          <caret line="281" column="42" lean-forward="false" selection-start-line="281" selection-start-column="32" selection-end-line="281" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/js/myscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
